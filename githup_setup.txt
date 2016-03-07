@@ -1,0 +1,4 @@
+https://github-windows.s3.amazonaws.com/GitHubSetup.exe
+
+windows git
+https://github-cloud.s3.amazonaws.com/releases/23216272/52b37828-da47-11e5-96bc-ec0bc53eac95.exe?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20160307%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20160307T081150Z&X-Amz-Expires=300&X-Amz-Signature=c128278ed25919f1dcd01efd9246a4dc1bff33629c744120388dc394754bee06&X-Amz-SignedHeaders=host&actor_id=15259469&response-content-disposition=attachment%3B%20filename%3DGit-2.7.2-64-bit.exe&response-content-type=application%2Foctet-stream
